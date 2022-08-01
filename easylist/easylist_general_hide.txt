@@ -18070,6 +18070,7 @@
 ##.headeradinfo
 ##.headeradright
 ##.headerads
+##.header-item
 ##.heading-ad-space
 ##.headline-adblock
 ##.headline-ads
